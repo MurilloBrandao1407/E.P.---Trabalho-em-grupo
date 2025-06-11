@@ -1,1 +1,1 @@
-#Trabalho em grupo de estatistica e probabilidade
+Trabalho em grupo de estatistica e probabilidade
